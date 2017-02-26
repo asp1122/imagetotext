@@ -7,6 +7,8 @@
 \usepackage{url}
 \usepackage{srcltx}
 \usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
 
 \definecolor{kugreen}{RGB}{50,93,61}
 \definecolor{kugreenlys}{RGB}{132,158,139}
@@ -25,10 +27,10 @@
 
 \logo{\includegraphics[width=0.8cm]{KULogo}}
 %\useoutertheme{infolines} 
-\title{Sample Title}
-\author{Thomas R. N. Jansson}
-\institute{Niels Bohr Institute \\ University of Copenhagen}
-\date{6 June 2014}
+\title{Image to text}
+\author{Suraj Kiran S \\ Nakul A \\ Shinoj \\ Umesh U}
+\institute{Government Engineering College, \\Sreekrishnapuram}
+\date{} 
 
 
 
@@ -52,7 +54,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 \frame{
 \frametitle{Block diagram}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	\tikzstyle{box} = [rectangle, rounded corners, minimum width=3cm, minimum height=.5cm,text centered, draw=black, fill=red!30]
+	\tikzstyle{square} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
+	\tikzstyle{arrow} = [thick,->,>=stealth]
+	\begin{tikzpicture}[node distance=1.3cm]
+	\node (1) [box] {Capture Image};
+	\node (2) [box, right of=1,xshift=2cm] {Canny Transform};
+	\node (3) [box, below of=2] {Skeletonization };
+	\node (database) [square, right of=3,xshift=2.2cm,yshift=2.5cm] {Database };
+	\node (4) [box, right of=3,xshift=2.2cm] {Machine Learning};
+	\node (5) [box, below of=4] {Skeleton to text};
+	\node (6) [box, below of=5] {Storage};
+	\draw [arrow] (1) -- (2);
+	\draw [arrow] (2) -- (3);
+	\draw [arrow] (3) -- (4);
+	\draw [arrow] (4) -- (5);
+	\draw [arrow] (5) -- (6);
+	\draw [arrow] (database) -- (4);
+	
+	\end{tikzpicture}
 }
 \section{Algorithm}
 

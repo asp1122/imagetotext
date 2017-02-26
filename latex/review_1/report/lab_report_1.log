@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.23)  27 FEB 2017 00:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.23)  27 FEB 2017 00:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,7 +1043,7 @@ File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 139--234
 
  []
@@ -1065,55 +1065,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--234
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 139--234
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--286
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 289--297
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--297
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--286
 
  []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 289--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--297
+
+ []
+
+[6]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 298.
 
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -1122,7 +1122,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 298.
 
-<grey.png, id=25, 297.11pt x 207.77625pt>
+<grey.png, id=28, 297.11pt x 207.77625pt>
 File: grey.png Graphic file (type png)
  <use grey.png>
 Package pdftex.def Info: grey.png used on input line 317.
@@ -1147,19 +1147,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--363
 
  []
 
-[6 <./grey.png>] [7] <1.png, id=34, 340.27126pt x 209.78375pt>
+[7 <./grey.png>] [8] <1.png, id=37, 340.27126pt x 209.78375pt>
 File: 1.png Graphic file (type png)
  <use 1.png>
 Package pdftex.def Info: 1.png used on input line 399.
 (pdftex.def)             Requested size: 170.13521pt x 104.8916pt.
 
-<2.png, id=35, 331.2375pt x 207.77625pt>
+<2.png, id=38, 331.2375pt x 207.77625pt>
 File: 2.png Graphic file (type png)
  <use 2.png>
 Package pdftex.def Info: 2.png used on input line 400.
 (pdftex.def)             Requested size: 165.61833pt x 103.88786pt.
 
-<3.png, id=36, 244.915pt x 179.67125pt>
+<3.png, id=39, 244.915pt x 179.67125pt>
 File: 3.png Graphic file (type png)
  <use 3.png>
 Package pdftex.def Info: 3.png used on input line 414.
@@ -1194,14 +1194,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 366--453
 
  []
 
-[8 <./1.png> <./2.png>]
+[9 <./1.png> <./2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 461--482
 
  []
 
-[9 <./3.png>] [10]
+[10 <./3.png>] [11]
 No file lab_report_1.bbl.
-[11] (./lab_report_1.aux) ) 
+[12] (./lab_report_1.aux) ) 
 Here is how much of TeX's memory you used:
  14045 strings out of 493029
  288753 string characters out of 6136234
@@ -1219,10 +1219,10 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on lab_report_1.pdf (11 pages, 312139 bytes).
+Output written on lab_report_1.pdf (12 pages, 312277 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

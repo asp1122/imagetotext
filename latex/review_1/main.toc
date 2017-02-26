@@ -3,10 +3,11 @@
 \beamer@sectionintoc {1}{Literature survey}{3}{0}{1}
 \beamer@sectionintoc {2}{Block diagram}{4}{0}{2}
 \beamer@sectionintoc {3}{Algorithm}{5}{0}{3}
-\beamer@subsectionintoc {3}{1}{Pseudo code}{6}{0}{3}
-\beamer@sectionintoc {4}{Execution}{7}{0}{4}
-\beamer@subsectionintoc {4}{1}{Intitial setup}{9}{0}{4}
-\beamer@subsectionintoc {4}{2}{Tools}{10}{0}{4}
-\beamer@subsectionintoc {4}{3}{Tools}{11}{0}{4}
-\beamer@subsectionintoc {4}{4}{Dataset}{12}{0}{4}
-\beamer@sectionintoc {5}{Review report}{13}{0}{5}
+\beamer@subsectionintoc {3}{1}{Canny Transform}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Skeletonization}{7}{0}{3}
+\beamer@subsectionintoc {3}{3}{Machine Learning}{9}{0}{3}
+\beamer@sectionintoc {4}{Execution}{11}{0}{4}
+\beamer@subsectionintoc {4}{1}{Intitial setup}{12}{0}{4}
+\beamer@subsectionintoc {4}{2}{Tools}{13}{0}{4}
+\beamer@subsectionintoc {4}{3}{Dataset}{14}{0}{4}
+\beamer@sectionintoc {5}{Review report}{15}{0}{5}

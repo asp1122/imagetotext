@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.23)  26 FEB 2017 19:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.23)  26 FEB 2017 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1164,6 +1164,8 @@ zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 ))
 :<-
+) (/usr/share/texlive/texmf-dist/tex/latex/moresize/moresize.sty
+Package: moresize 1999/07/26 v1.9 (more font sizes)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryshapes.geometric.code.tex
@@ -1216,33 +1218,33 @@ Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 31.
+(hyperref)                removing `\\' on input line 32.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 31.
+(hyperref)                removing `\\' on input line 32.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 31.
+(hyperref)                removing `\\' on input line 32.
 
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1308,7 +1310,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1318,9 +1320,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count174
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -1351,39 +1353,39 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 37.
+LaTeX Info: Redefining \includegraphics on input line 38.
  (./main.nav)
-<KULogo.png, id=53, 180.675pt x 222.8325pt>
+<KULogo.png, id=57, 180.675pt x 222.8325pt>
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 37.
+Package pdftex.def Info: KULogo.png used on input line 38.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 39.
+(Font)              size <5> substituted on input line 40.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 39.
+(Font)              size <5> substituted on input line 40.
 
 File: KULogo.png Graphic file (type png)
 <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 39.
+Package pdftex.def Info: KULogo.png used on input line 40.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./KULogo.png>] (./main.toc)
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 45.
+Package pdftex.def Info: KULogo.png used on input line 46.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [2
 
 ]
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 52.
+Package pdftex.def Info: KULogo.png used on input line 53.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [3
 
@@ -1391,93 +1393,116 @@ Package pdftex.def Info: KULogo.png used on input line 52.
 File: KULogo.png Graphic file (type png)
 
 <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 76.
+Package pdftex.def Info: KULogo.png used on input line 77.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [4
 
 ]
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 82.
+Package pdftex.def Info: KULogo.png used on input line 83.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [5
 
 ]
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 87.
+Package pdftex.def Info: KULogo.png used on input line 88.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [6
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 89.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 90.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 89.
+LaTeX Font Info:    No file OMScmss.fd. on input line 90.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 89.
+(Font)              for symbol `textbullet' on input line 90.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 104.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 104.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: KULogo.png Graphic file (type png)
 
 <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 104.
+Package pdftex.def Info: KULogo.png used on input line 100.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [7
 
 ]
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 104.
+Package pdftex.def Info: KULogo.png used on input line 100.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [8]
+<tree.png, id=390, 361.35pt x 341.275pt>
+File: tree.png Graphic file (type png)
+ <use tree.png>
+Package pdftex.def Info: tree.png used on input line 120.
+(pdftex.def)             Requested size: 144.53743pt x 136.50757pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: KULogo.png Graphic file (type png)
- <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 108.
+
+<use KULogo.png>
+Package pdftex.def Info: KULogo.png used on input line 120.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [9
 
 ]
 File: KULogo.png Graphic file (type png)
-
-<use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 113.
+ <use KULogo.png>
+Package pdftex.def Info: KULogo.png used on input line 120.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
- [10
+ [10 <./tree.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 131.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 131.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: KULogo.png Graphic file (type png)
+ <use KULogo.png>
+Package pdftex.def Info: KULogo.png used on input line 131.
+(pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
+
+[11
 
 ]
 File: KULogo.png Graphic file (type png)
  <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 119.
-(pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
- [11
-
-]
-File: KULogo.png Graphic file (type png)
- <use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 125.
+Package pdftex.def Info: KULogo.png used on input line 135.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [12
 
 ]
 File: KULogo.png Graphic file (type png)
-
-<use KULogo.png>
-Package pdftex.def Info: KULogo.png used on input line 137.
+ <use KULogo.png>
+Package pdftex.def Info: KULogo.png used on input line 140.
 (pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
  [13
+
+]
+File: KULogo.png Graphic file (type png)
+ <use KULogo.png>
+Package pdftex.def Info: KULogo.png used on input line 146.
+(pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
+ [14
+
+]
+File: KULogo.png Graphic file (type png)
+
+<use KULogo.png>
+Package pdftex.def Info: KULogo.png used on input line 158.
+(pdftex.def)             Requested size: 22.76228pt x 28.0716pt.
+ [15
 
 ]
 \tf@nav=\write6
@@ -1489,13 +1514,13 @@ Package pdftex.def Info: KULogo.png used on input line 137.
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A6E73150D4851DFB406FF3F3A646ACCD;527.
+(rerunfilecheck)             Checksum: C2FCF79E5827760B5B9D98C6548A83B8;607.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1504,14 +1529,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
  ) 
 Here is how much of TeX's memory you used:
- 21816 strings out of 493029
- 434379 string characters out of 6136234
- 512174 words of memory out of 5000000
- 24795 multiletter control sequences out of 15000+600000
- 11293 words of font info for 42 fonts, out of 8000000 for 9000
+ 21882 strings out of 493029
+ 435775 string characters out of 6136234
+ 513810 words of memory out of 5000000
+ 24850 multiletter control sequences out of 15000+600000
+ 11842 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,20n,64p,456b,702s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
@@ -1521,11 +1546,12 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 -dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (13 pages, 119317 bytes).
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy9.pfb>
+Output written on main.pdf (15 pages, 138228 bytes).
 PDF statistics:
- 597 PDF objects out of 1000 (max. 8388607)
- 556 compressed objects within 6 object streams
- 37 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 696 PDF objects out of 1000 (max. 8388607)
+ 649 compressed objects within 7 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 165 words of extra memory for PDF output out of 10000 (max. 10000000)
 

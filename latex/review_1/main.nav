@@ -24,30 +24,30 @@
 \headcommand {\beamer@subsectionentry {0}{3}{2}{7}{Skeletonization}}\headcommand {\beamer@subsectionpages {6}{6}}
 \headcommand {\slideentry {3}{2}{1}{7/7}{Skeletonization}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{9}{Machine Learning}}\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\slideentry {3}{3}{1}{9/9}{Machine Learning}{0}}
-\headcommand {\beamer@framepages {9}{9}}
-\headcommand {\sectionentry {4}{Execution}{11}{Execution}{0}}
-\headcommand {\beamer@sectionpages {5}{10}}
-\headcommand {\beamer@subsectionpages {9}{10}}
-\headcommand {\slideentry {4}{0}{1}{11/11}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{8}{Machine Learning}}\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\slideentry {3}{3}{1}{8/8}{Machine Learning}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\sectionentry {4}{Execution}{10}{Execution}{0}}
+\headcommand {\beamer@sectionpages {5}{9}}
+\headcommand {\beamer@subsectionpages {8}{9}}
+\headcommand {\slideentry {4}{0}{1}{10/10}{}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{11}{Intitial setup}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {4}{1}{1}{11/11}{Intitial setup}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{12}{Intitial setup}}\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\slideentry {4}{1}{1}{12/12}{Intitial setup}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{12}{Tools}}\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\slideentry {4}{2}{1}{12/12}{Tools}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{13}{Tools}}\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\slideentry {4}{2}{1}{13/13}{Tools}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{13}{Dataset}}\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {4}{3}{1}{13/13}{Dataset}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{14}{Dataset}}\headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\slideentry {4}{3}{1}{14/14}{Dataset}{0}}
+\headcommand {\sectionentry {5}{Review report}{14}{Review report}{0}}
+\headcommand {\beamer@sectionpages {10}{13}}
+\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {5}{0}{1}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\sectionentry {5}{Review report}{15}{Review report}{0}}
-\headcommand {\beamer@sectionpages {11}{14}}
+\headcommand {\beamer@partpages {1}{14}}
 \headcommand {\beamer@subsectionpages {14}{14}}
-\headcommand {\slideentry {5}{0}{1}{15/15}{}{0}}
-\headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@partpages {1}{15}}
-\headcommand {\beamer@subsectionpages {15}{15}}
-\headcommand {\beamer@sectionpages {15}{15}}
-\headcommand {\beamer@documentpages {15}}
+\headcommand {\beamer@sectionpages {14}{14}}
+\headcommand {\beamer@documentpages {14}}
 \headcommand {\def \inserttotalframenumber {13}}
